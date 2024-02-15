@@ -10,7 +10,7 @@ To run and edit the code on your local device, follow these steps from this [doc
 
 ### Push, Pull, Commit
 Once you've made changes to the code and are ready to update the repository:
-*****IMPORTANT FOR NOW WE WILL NOT DOING ANY CHANGES TO CODE***********
+### IMPORTANT FOR NOW WE WILL NOT DOING ANY CHANGES TO CODE
 Push: Upload your local changes to the remote repository on GitHub using the git push command.
 
       git push origin main
